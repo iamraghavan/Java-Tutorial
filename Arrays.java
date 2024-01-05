@@ -1,4 +1,5 @@
 public class Arrays {
+<<<<<<< HEAD
     public static void main(String[] args) {
         /* Declare an Array */
 
@@ -16,4 +17,6 @@ public class Arrays {
 
 
     }
+=======
+>>>>>>> origin/main
 }
