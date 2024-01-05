@@ -1,9 +1,9 @@
 public class Arrays {
-<<<<<<< HEAD
+
     public static void main(String[] args) {
         /* Declare an Array */
 
-        int [] rollno = new int[50];
+        int[] rollno = new int[50];
 
         rollno[0] = 1;
         rollno[2] = 3;
@@ -11,12 +11,11 @@ public class Arrays {
         System.out.println(rollno[0]);
         System.out.println(rollno[1]);
 
-        for (int i = 0 ; i < 5 ; i++){
+        for (int i = 0; i < 5; i++) {
             System.out.println(rollno[i]);
         }
 
 
     }
-=======
->>>>>>> origin/main
+
 }
