@@ -4,13 +4,7 @@ public class JavaClasses {
 
     }
 
-    class personInformation {
-
-       public static void printInfo(){
-
-       }
 
 
-    }
 
 }
